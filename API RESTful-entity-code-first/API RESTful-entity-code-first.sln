@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API RESTful-entity-code-first", "API RESTful-entity-code-first.csproj", "{684F63D5-6292-4D28-951F-2BF13F8D5543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{0DFE83C7-A9F9-40B0-9116-BD6762B192A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684F63D5-6292-4D28-951F-2BF13F8D5543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684F63D5-6292-4D28-951F-2BF13F8D5543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684F63D5-6292-4D28-951F-2BF13F8D5543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684F63D5-6292-4D28-951F-2BF13F8D5543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFE83C7-A9F9-40B0-9116-BD6762B192A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFE83C7-A9F9-40B0-9116-BD6762B192A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFE83C7-A9F9-40B0-9116-BD6762B192A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFE83C7-A9F9-40B0-9116-BD6762B192A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB474C7F-68BC-44E8-B647-94902F4C488B}
+	EndGlobalSection
+EndGlobal
